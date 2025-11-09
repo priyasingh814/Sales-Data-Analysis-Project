@@ -23,7 +23,8 @@ Developed a neat Dashboard Sheet for visual insights.
 \*\***Skills**:\*\* Data Cleaning, Pivot Tables, Charts, Dashboarding  
 
 ## Screenshot
-![Sales Dashboard Screenshot]
+![Sales Dashboard Screenshot] https://github.com/priyasingh814/Sales-Data-Analysis-Project/blob/main/dashboard_shreenshot.png
+
 
 
 
