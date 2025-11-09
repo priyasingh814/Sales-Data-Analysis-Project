@@ -22,7 +22,10 @@ Developed a neat Dashboard Sheet for visual insights.
 
 \*\***Skills**:\*\* Data Cleaning, Pivot Tables, Charts, Dashboarding  
 
-\*\***Author**:\*\* Priya Singh | Greater Noida
+## Screenshot
+![Sales Dashboard Screenshot]
+
+
 
 
 
